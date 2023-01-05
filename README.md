@@ -1,5 +1,11 @@
 ### Hello there 👋
 
+# Howdy 🤠
+
+<a href="https://github.com/ajb3932"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ajb3932.ajb3932" />
+
 <!--
 **ajb3932/ajb3932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
