@@ -1,6 +1,4 @@
-### Hello there 👋
-
-<a href="https://github.com/ajb3932"><img src="contributions.svg"></a>
+### Hello there! 👋
 
 <!--
 **ajb3932/ajb3932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
