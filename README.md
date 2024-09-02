@@ -1,5 +1,4 @@
 ##  👋 Hey!
-##  📫 [Pi and Chips](https://piandchips.uk "My business website.").
 
 <!--
 **ajb3932/ajb3932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
