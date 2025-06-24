@@ -24,8 +24,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajb3932&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
-<a href="https://piandchips.uk">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajb3932&theme=dark" />
-</a>
-
 ---
