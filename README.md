@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### &#x1f4c8; My GitHub Stats
+
+<a href="https://piandchips.uk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajb3932&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+</a>
+
+<a href="https://piandchips.uk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajb3932&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://piandchips.uk">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajb3932&theme=dark" />
+</a>
+
+---
