@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I write code that helps me, if it helps others too that's excellent.
+
 ## &#x1f4c8; My GitHub Stats
 <div align="center">
 <a href="https://piandchips.uk">
